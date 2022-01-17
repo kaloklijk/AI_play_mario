@@ -19,7 +19,7 @@ For installation, you can install the library using
 Windows cmd: 
 
 ``` diff
-python -m pip install gym.wrappers, gym_super_mario_bros, torch, stable-baselines3, matplotlib, numba, nes_py
+python -m pip install gym.wrappers gym_super_mario_bros torch stable-baselines3 matplotlib numba nes_py
 ```
 
 or 
@@ -27,6 +27,6 @@ or
 Linux terminal: 
 
 ``` diff
-ip install gym.wrappers, gym_super_mario_bros, torch, stable-baselines3, matplotlib, numba, nes_py
+ip install gym.wrappers gym_super_mario_bros torch stable-baselines3 matplotlib numba nes_py
 ```
 have fun!
